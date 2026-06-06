@@ -1,0 +1,1 @@
+# openSUSE-Leap-15.5-Minimal-VM.x86_64-15.5.0-kvm-and-xen-Build1.1
